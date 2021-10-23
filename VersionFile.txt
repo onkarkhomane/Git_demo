@@ -1,1 +1,2 @@
-This is Feature 1 branch file.
+Updating th  the file for feature 2 branch
+
